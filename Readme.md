@@ -1,6 +1,6 @@
 # Mimicking Nobelium APT to send your resume or a reverse shell if you are evil
 
-![](icono/cv.mp4)(icono/cv.mp4)
+<video src="icono/cv.mp4" width="500" />
 
 First of you can clone this repo : 
 

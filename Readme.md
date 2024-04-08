@@ -1,11 +1,11 @@
 # Mimicking Nobelium APT to send your resume or a reverse shell if you are evil
 
-![](img/cv.mp4)
+[![](icono/cv.mp4)](icono/cv.mp4)
 
 First of you can clone this repo : 
 
 ```
-git clone 
+git clone https://github.com/fredtep/SendCV.git
 ```
 
 ## In Linux : 

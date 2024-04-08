@@ -2,6 +2,10 @@
 
 ![](icono/cv.gif)
 
+It's been a while I wanted to try to mimick the cybercriminal group Nobelium's early-stage toolset and I thought it would be fun to do that sending a CV.
+
+##Let's get started
+
 First of you can clone this repo : 
 
 ```
@@ -68,3 +72,4 @@ You can capture the NetNTLM hash of your victim by running responder in a server
 ---------------------------------------------------------------
 
 Filesaver.js can be found [here](https://github.com/eligrey/FileSaver.js/tree/master)
+Nobelium breakdown can be found [here](https://www.microsoft.com/en-us/security/blog/2021/05/28/breaking-down-nobeliums-latest-early-stage-toolset/)

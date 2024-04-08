@@ -1,4 +1,4 @@
-# Mimicking Nobelium APT to send your resume or a reverse shell if you are evil
+# Mimicking Nobelium APT group to send your resume or a reverse shell if you are evil
 
 ![](icono/cv.gif)
 
